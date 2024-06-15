@@ -20,3 +20,14 @@ elif media >= 5:
     print('Recuperação')
 else:
     print('Reprovado')
+
+
+# exemplo 3
+
+media = 10
+precensa = 100
+
+if media >= 7 and precensa >= 70:
+    print('aprovado')
+else:
+    print('reprovado')
