@@ -1,5 +1,16 @@
 # Data Science Santander
 
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Interpreted-blue?style=flat-square&logo=python">
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=flat-square&logo=pandas">
+  <img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy">
+  <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-yellow?style=flat-square&logo=matplotlib">
+  <img src="https://img.shields.io/badge/Seaborn-Statistical%20Graphics-008080?style=flat-square">
+  <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange?style=flat-square&logo=scikitlearn">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-important?style=flat-square&logo=jupyter">
+</p>
+
 ## Descrição
 
 Este repositório contém os projetos e materiais desenvolvidos durante o curso de Data Science oferecido pelo Santander em parceria com a Ada Tech. O curso abrange diversos aspectos da ciência de dados, incluindo introdução ao Python, análise exploratória de dados, estatísticas, aprendizado de máquina e muito mais.
